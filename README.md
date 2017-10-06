@@ -1,4 +1,4 @@
-urban_quant
+urban-quant
 ===========
 
 Course material for "Quantitative Methods for Urban and Regional Research"
